@@ -3,3 +3,4 @@ let y = 15;
 let myFunction = () => {
   alert(x + f);
 };
+let z = 1000;
