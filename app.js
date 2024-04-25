@@ -4,3 +4,4 @@ let myFunction = () => {
   alert(x + f);
 };
 let z = 1000;
+let w = 8812;
