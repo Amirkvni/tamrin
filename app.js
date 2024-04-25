@@ -5,3 +5,5 @@ let myFunction = () => {
 };
 let z = 1000;
 let w = 8812;
+alert(w + z + x + y);
+
