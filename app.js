@@ -1,5 +1,5 @@
 let btn = document.querySelector("button");
-bt.addEventListener("click", () => {
+btn.addEventListener("click", () => {
   alert("hiiii");
 });
 let x = 23;
